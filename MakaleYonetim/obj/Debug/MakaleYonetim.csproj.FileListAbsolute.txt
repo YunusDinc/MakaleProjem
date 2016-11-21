@@ -1,0 +1,16 @@
+c:\users\section-1\documents\visual studio 2015\Projects\MakaleYonetim\MakaleYonetim\bin\Debug\MakaleYonetim.exe.config
+c:\users\section-1\documents\visual studio 2015\Projects\MakaleYonetim\MakaleYonetim\bin\Debug\MakaleYonetim.exe
+c:\users\section-1\documents\visual studio 2015\Projects\MakaleYonetim\MakaleYonetim\bin\Debug\MakaleYonetim.pdb
+c:\users\section-1\documents\visual studio 2015\Projects\MakaleYonetim\MakaleYonetim\obj\Debug\MakaleYonetim.csprojResolveAssemblyReference.cache
+c:\users\section-1\documents\visual studio 2015\Projects\MakaleYonetim\MakaleYonetim\obj\Debug\MakaleYonetim.EditorEkran.resources
+c:\users\section-1\documents\visual studio 2015\Projects\MakaleYonetim\MakaleYonetim\obj\Debug\MakaleYonetim.Form1.resources
+c:\users\section-1\documents\visual studio 2015\Projects\MakaleYonetim\MakaleYonetim\obj\Debug\MakaleYonetim.Properties.Resources.resources
+c:\users\section-1\documents\visual studio 2015\Projects\MakaleYonetim\MakaleYonetim\obj\Debug\MakaleYonetim.csproj.GenerateResource.Cache
+c:\users\section-1\documents\visual studio 2015\Projects\MakaleYonetim\MakaleYonetim\obj\Debug\MakaleYonetim.exe
+c:\users\section-1\documents\visual studio 2015\Projects\MakaleYonetim\MakaleYonetim\obj\Debug\MakaleYonetim.pdb
+c:\users\section-1\documents\visual studio 2015\Projects\MakaleYonetim\MakaleYonetim\obj\Debug\MakaleYonetim.AdminEkran.resources
+c:\users\section-1\documents\visual studio 2015\Projects\MakaleYonetim\MakaleYonetim\obj\Debug\MakaleYonetim.MakaleEkle.resources
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MakaleYonetim\MakaleYonetim\obj\Debug\MakaleYonetim.MakaleDuzenle.resources
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MakaleYonetim\MakaleYonetim\obj\Debug\MakaleYonetim.Istatistik.resources
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MakaleYonetim\MakaleYonetim\obj\Debug\MakaleYonetim.KullaniciEkle.resources
+C:\Users\section-1\Documents\Visual Studio 2015\Projects\MakaleYonetim\MakaleYonetim\obj\Debug\MakaleYonetim.KullaniciDuzenle.resources
